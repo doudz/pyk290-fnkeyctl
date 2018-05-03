@@ -5,10 +5,13 @@ This is a python port of https://github.com/milgner/k290-fnkeyctl
 
 Requires python-libusb1, to install
     ```sudo pip3 install libusb1```
+    
+or
+     ```sudo apt install python3-libusb1```
 
 Works with python 2 and python 3
 
-Tested on Ubuntu 15.04, 16.04 and 17.04
+Tested on Ubuntu 15.04, 16.04, 17.04 and 18.04
 ## Running it
 
 ### Manually
